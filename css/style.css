@@ -1,0 +1,11 @@
+.navbar {
+    background-color: gray; 
+}
+
+.navbar .container {
+    background-color: hotpink;
+}
+
+.navbar-header {
+    background-color: indigo;
+}
